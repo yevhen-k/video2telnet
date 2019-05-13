@@ -1,0 +1,14 @@
+# folders
+bin/
+include/
+lib/
+.vscode/
+result-ascii-edges/
+result-ascii-gray/
+
+# symbol links
+lib64
+
+# static files
+pyvenv.cfg
+test_720P_1500K_217812511.mp4
