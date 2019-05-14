@@ -1,2 +1,8 @@
 Nice terminal emulator
 https://github.com/liamg/aminal
+
+TODO
+- ~check bigger resolution~ failed
+- check color inversion after edges detection **OK**
+- heigth scale should be twice or even more smaller because line heigth / letter width ratio
+- compose algorythm for getting edges direction and replacement edges with appropriate ascii character

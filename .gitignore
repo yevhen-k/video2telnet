@@ -5,6 +5,7 @@ lib/
 .vscode/
 result-ascii-edges/
 result-ascii-gray/
+result-ascii-360x96-edges/
 
 # symbol links
 lib64
